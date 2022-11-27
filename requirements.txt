@@ -1,0 +1,2 @@
+thefuzz[speedup]
+pandas
